@@ -2,38 +2,76 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #CBC8C4;
 }
 
 #tentacles {
-    width: 50px;
+    width: 70px;
 }
 
 .header {
+    color: white;
+    font-size: xx-large;
     display: flex;
-    background-color: lightblue;
+    background-color: #55738D;
+    /* background: linear-gradient(#55738D, #55738D, #55738D, #55738D, #FFFFFF); */
     padding: 1%;
     align-items: center;
+    justify-content: center;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    gap: 15px;
+}
+
+.background-container {
+    background: linear-gradient(#ffffff, #ffffff, #CBC8C4);
+    margin: 0% -1.5% 0% -1.5%;
+    padding: 5%;
+    /* padding-bottom: 50px; */
+    padding-top: 1%;
+    color: rgb(74, 53, 33);
+}
+
+#stats-header {
+    font-size: xx-large;    
 }
 
 .stats-container {
     display: flex;
+    justify-content: safe;
+    align-items: center;
+    
 }
 
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px white;
+}
+
+
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #96A7B6;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
     width: 100%;
     text-align: center;
+    color: white;
 }
 
 #num-contributions, #total-raised, #num-games {
     font-size: 50px;
+}
+
+#games-header {
+    font-size: xx-large;
+}
+
+.game-description  {
+    /* background:linear-gradient(#CBC8C4, #ffffff ,#ffffff, #CBC8C4); */
+    padding: 1%;
+    /* margin: -5%; */
 }
 
 #games-container {
@@ -59,7 +97,7 @@ body {
 
 .game-card:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px white;
 }
 
 #button-container {
@@ -68,8 +106,27 @@ body {
 
 button {
     font-family: 'Cabin';
+    background-color: #96A7B6;
+    color: white;
+    font-size: large;
     border: none;
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
 }
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px white;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
