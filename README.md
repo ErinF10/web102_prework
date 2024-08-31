@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowd Fund*
 
-Submitted by: **Your Name Here**
+Submitted by: **Erin Forrest**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowd Fund** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -17,16 +17,18 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] The total amount raised is present in the heading
+* [ ] There is a back to top button at the bottom of the page
+* [ ] The page is customized with more personalized styling
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/e3a3e1f364154808af66c7e54f73890d?sid=d5465bab-a274-4db3-be3d-b1107d14820f' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +36,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge was interacting with the DOM. This was actually the first time I had been exposed to an assignment that required working with the DOM with JavaScript, I have only ever heard the term before. Other than that most of the sections were super straight forward!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Erin Forrest
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
