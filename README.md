@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![Sea Monster Crowdfunding walkthrough](https://github.com/user-attachments/assets/134ef8b5-aee4-43b6-9114-1091864472e8)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/134ef8b5-aee4-43b6-9114-1091864472e8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
